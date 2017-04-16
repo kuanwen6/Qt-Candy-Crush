@@ -1,3 +1,3 @@
 # pd2-project3
 
-##CandyCrush develop within QT
+##  CandyCrush develop within QT
